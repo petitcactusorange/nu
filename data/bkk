@@ -1,0 +1,20 @@
+. Little description : 
+
+//------
+solid-data-ibd-v1.csv	
+contains the cube with maximum energy 
+plus all those around it and finally the "truth"	
+
+
+//------
+solid-data-ibd-v2.csv
+contains the cube with maximum energy 
+plus all those around it and finally the "truth"
+also other estimators. 
+
+
+//-------
+solid-data-cosmics-v1.csv    
+Like name suggests these are cosmics. 
+
+
